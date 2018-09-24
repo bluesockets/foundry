@@ -9,7 +9,7 @@ Foundry - an extensible postgres sql client
 
 ### Download
 
-[Download the Mac client here](https://github.com/bluesockets/foundry/releases)
+[Download the latest Mac client here](https://github.com/bluesockets/foundry/releases/download/1.0.0/Foundry-1.0.0.dmg)
 
 ### FAQs (more coming)
 
